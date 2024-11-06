@@ -10,7 +10,6 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-
         if(head == null || head.next == null) return true;
         ListNode currNode = head;
         ListNode prevNode = null;
@@ -37,9 +36,6 @@ class Solution {
                 prevNode = prevNode.next;
             }
         }
-        // if((startNode.next == null || prevNode.next == null) && (startNode.val == prevNode.val)){
-        //         flag = true;
-        // }
         if(flag == true){
            return true;
         }else{
