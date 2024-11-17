@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
