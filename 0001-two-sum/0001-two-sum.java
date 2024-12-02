@@ -15,6 +15,6 @@ class Solution {
                 return result;
             }
         }
-        return new int[2];
+        return null;
     }
 }
