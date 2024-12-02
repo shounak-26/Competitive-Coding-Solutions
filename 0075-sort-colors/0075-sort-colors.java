@@ -1,26 +1,29 @@
 class Solution {
     public void sortColors(int[] nums) {
-    HashMap<Integer, Integer> myMap = new HashMap<>();
-    myMap.put(0, 0);
-    myMap.put(1, 0);
-    myMap.put(2, 0);
-
-    // Count occurrences of each number
-    for (int i = 0; i < nums.length; i++) {
-      if (myMap.containsKey(nums[i])) {
-        myMap.put(nums[i], myMap.get(nums[i]) + 1); // Increment the count
-      }
+    int zero = 0;
+    int one = 0;
+    int two = 0;
+    for(int i = 0; i < nums.length; i++){
+        if(nums[i] == 0){
+            zero++;
+        }else if(nums[i] == 1){
+            one++;
+        }else{
+            two++;
+        }
     }
-
-    // Rebuild the sorted array
-    int index = 0;
-    for (int key : myMap.keySet()) {
-      int count = myMap.get(key);
-      for (int i = 0; i < count; i++) {
-        nums[index++] = key;
-      }
+    int pointer = 0;
+    for(int j = 0; j<zero; j++){
+        nums[pointer] = 0;
+        pointer++;
     }
-
-
+    for(int j = 0; j<one; j++){
+        nums[pointer] = 1;
+        pointer++;
+    }
+    for(int j = 0; j<two; j++){
+        nums[pointer] = 2;
+        pointer++;
+    }
     }
 }
