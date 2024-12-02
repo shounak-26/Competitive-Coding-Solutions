@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0268-missing-number) |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0234-palindrome-linked-list](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0283-move-zeroes) |
@@ -61,5 +63,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
