@@ -1,22 +1,26 @@
 class Solution {
     public void sortColors(int[] nums) {
-        boolean swapped; 
-		// Run the array for n-1 times.
-		for (int i = 0; i < nums.length; i++) {
-		swapped = false;
-		 // For each step, max item will come at last respective index.
-		 for (int j = 1; j < nums.length-i; j++) {
-		if(nums[j] < nums[j-1]){
-		 int temp = nums[j];
-		 nums[j] = nums[j-1];
-		 nums[j-1] = temp;
-		 swapped = true;
-		}
-		 }
-		 if(!swapped) {
-         }
-         
-         
-		}		 
+    HashMap<Integer, Integer> myMap = new HashMap<>();
+    myMap.put(0, 0);
+    myMap.put(1, 0);
+    myMap.put(2, 0);
+
+    // Count occurrences of each number
+    for (int i = 0; i < nums.length; i++) {
+      if (myMap.containsKey(nums[i])) {
+        myMap.put(nums[i], myMap.get(nums[i]) + 1); // Increment the count
+      }
+    }
+
+    // Rebuild the sorted array
+    int index = 0;
+    for (int key : myMap.keySet()) {
+      int count = myMap.get(key);
+      for (int i = 0; i < count; i++) {
+        nums[index++] = key;
+      }
+    }
+
+
     }
 }
