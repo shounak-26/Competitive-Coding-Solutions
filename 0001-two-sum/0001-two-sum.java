@@ -12,9 +12,9 @@ class Solution {
             else{
                 result[0] = indexStoringMap.get(sub);
                 result[1] = i;
-                break;
+                return result;
             }
         }
-        return result;
+        return new int[2];
     }
 }
