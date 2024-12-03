@@ -8,12 +8,8 @@ class Solution {
             if(sub < 0){
                 sub = 0;
             }
-
-            if(sub > ans){
-                ans = sub;
-            }
+            ans =Math.max(sub,ans);
         }
-        return ans;
-        
+        return ans;       
     }
 }
