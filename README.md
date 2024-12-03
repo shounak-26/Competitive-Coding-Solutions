@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0136-single-number) |
@@ -71,9 +72,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
