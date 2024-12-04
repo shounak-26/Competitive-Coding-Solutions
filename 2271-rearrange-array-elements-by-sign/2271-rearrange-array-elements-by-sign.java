@@ -38,6 +38,6 @@ public int[] rearrangeArray(int[] nums) {
         negative+=2;
       }
     }
-    System.gc();return result;
+    return result;
   }
 }
