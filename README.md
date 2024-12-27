@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -103,5 +105,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
