@@ -1,24 +1,30 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        // Better Approch O(n^2)
-
-        HashSet<List<Integer>> st = new HashSet<>(); 
+        // Optimal Approch O(n^2)
+        Arrays.sort(nums);
+        List<List<Integer>> result = new ArrayList<>();
         for(int i = 0; i < nums.length; i++){
-            HashSet<Integer> mySet = new HashSet<>();
-            for(int j = i+1; j < nums.length; j++){
-                if(mySet.contains(-(nums[i] + nums[j]))){
-                    List<Integer> myList = new ArrayList<>();
-                    myList.add(nums[i]);
-                    myList.add(nums[j]);
-                    myList.add(-(nums[i] + nums[j]));
-                    Collections.sort(myList);
-                    st.add(myList);
-                }
-                mySet.add(nums[j]);
+            if(i > 0 && nums[i] == nums[i-1]){
+                continue;
+            }
+            int j = i + 1;
+            int k = nums.length - 1;
+
+            while(j < k){
+                int third = nums[i] + nums[j] + nums[k];
+                if(third < 0){
+                    j++;
+                }else if(third > 0 ){
+                    k--;
+                }else{
+                    result.add(Arrays.asList(nums[i], nums[j], nums[k]));
+                    j++;
+                    k--;
+                    while(j < k && nums[j] == nums[j-1])j++; 
+                    while(j < k && nums[k] == nums[k+1])k--;    
+                } 
             }
         }
-        List<List<Integer>> result = new ArrayList<>();
-        result.addAll(st);
         return result;
     }
 }
