@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -138,4 +139,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
