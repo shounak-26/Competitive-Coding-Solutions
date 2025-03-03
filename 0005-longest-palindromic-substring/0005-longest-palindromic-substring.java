@@ -1,40 +1,41 @@
 class Solution {
-    public static String longestPalindrome(String s) {
-    if (s.length() <= 1)
-        return s;
-    else if (s.length() == 2) {
-        if (s.charAt(0) == s.charAt(1))
+    public String longestPalindrome(String s) {
+        if (s.length() <= 1) {
             return s;
-        else return s.charAt(0) + "";
-    }
+        }
 
-    // Default to the first character in case no longer palindrome is found
-    String result = s.charAt(0) + "";
+        String result = "";
+        for (int i = 1; i < s.length(); i++) {
 
-    for (int i = 0; i < s.length(); i++) {
-        for (int j = i + 1; j < s.length(); j++) {
-            String pali = s.substring(i, j + 1);
-            if (pali.length() > 1) {
-                int low = 0;
-                int high = pali.length() - 1;
-                boolean isPalindrome = true;
+            // Checking for odd
+            int low = i;
+            int high = i;
 
-                while (low < high) {
-                    if (pali.charAt(low) != pali.charAt(high)) {
-                        isPalindrome = false;
-                        break;
-                    }
-                    low++;
-                    high--;
-                }
+            while (s.charAt(low) == s.charAt(high)) {
+                low--;
+                high++;
+                if (low == -1 || high == s.length())
+                    break;
+            }
+            String palidrome = s.substring(low + 1, high);
+            if (result.length() < palidrome.length()) {
+                result = palidrome;
+            }
 
-                if (isPalindrome && pali.length() > result.length()) {
-                    result = pali;
-                }
+            // Checking for even
+            low = i - 1;
+            high = i;
+            while (s.charAt(low) == s.charAt(high)) {
+                low--;
+                high++;
+                if (low == -1 || high == s.length())
+                    break;
+            }
+            String pali = s.substring(low + 1, high);
+            if (pali.length() > result.length()) {
+                result = pali;
             }
         }
+        return result;
     }
-    return result;
-}
-
 }
