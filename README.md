@@ -144,4 +144,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0125-valid-palindrome) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
