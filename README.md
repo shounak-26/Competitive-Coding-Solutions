@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0584-find-customer-referee) |
 | [1258-article-views-i](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/1258-article-views-i) |
 ## Queue
 |  |
