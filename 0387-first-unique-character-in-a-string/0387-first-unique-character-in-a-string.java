@@ -13,9 +13,25 @@ class Solution {
         // }
         // return -1;
 
-        // Approch: 2
+        // Approch: 2 less better
+        // for(int i = 0; i < s.length(); i++){
+        //     if(s.indexOf(s.charAt(i)) == s.lastIndexOf(s.charAt(i))){
+        //         return i;
+        //     }
+        // }
+        // return -1;
+
+        // Approch 3: 
+        HashMap<Character,Integer> myMap = new HashMap<>();
         for(int i = 0; i < s.length(); i++){
-            if(s.indexOf(s.charAt(i)) == s.lastIndexOf(s.charAt(i))){
+            if(!myMap.containsKey(s.charAt(i))){
+                myMap.put(s.charAt(i),1);
+            }else{
+                myMap.put(s.charAt(i), myMap.get(s.charAt(i))+1);
+            }
+        }
+        for(int i = 0; i < s.length(); i++){
+            if(myMap.get(s.charAt(i)) == 1){
                 return i;
             }
         }
