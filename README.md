@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -173,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
