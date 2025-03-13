@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -180,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/1013-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
