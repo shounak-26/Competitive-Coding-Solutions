@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0792-binary-search) |
