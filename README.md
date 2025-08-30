@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0176-second-highest-salary](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/shounak-26/Competitive-Coding-Solutions/tree/master/1153-product-sales-analysis-i) |
